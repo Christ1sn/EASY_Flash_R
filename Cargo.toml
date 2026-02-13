@@ -1,0 +1,9 @@
+[package]
+name = "test_0"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+press-btn-continue = "0.2.0"
+clearscreen = "4.0.3"
+opener = "0.4.1"
